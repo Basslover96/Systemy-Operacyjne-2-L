@@ -1,0 +1,2 @@
+Liczba dowiązań symbolicznych wynosi 4
+Liczba dowiązań symbolicznych do nieistniejących plików/katalogów wynosi 2
